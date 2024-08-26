@@ -8,24 +8,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Rickey Cox's First CS193 Homework
 
-#### Header 4
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Things I Love About CS193
+- Getting right into the coding
+- The professor is pretty cool
+- Homework is actaully kinda fun
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
